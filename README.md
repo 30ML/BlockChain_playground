@@ -1,4 +1,4 @@
-# BlockChain
+# BlockChain-in-js
 
 ### 용어 정리
 #### 블록체인
